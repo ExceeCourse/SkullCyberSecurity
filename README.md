@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Skull Cyber Security</h1>
+<h1 align="center">Skull Cyber Security</h1>
 <h3 align="center">Indonesian I.T Organization</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SkullCyberSecurity](https://github.com/SkullCyberSecurity)
